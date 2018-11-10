@@ -45,8 +45,8 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 **Answer:**  The Android studio platform, has a user friendly interface making it simple to navigate within the development environment. I would like to compare this another platform with the Xcode, experience I encountered one similarity among the platforms were where they both need constraints to make the app readable to the user. The mobile app wireframes where you can drag and place the desired features was another similar experience between the two environments. The MVC system are both implemented which controls the app's functional. 
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
-I would describe an ArrayAdapter as an array passes 3 different parameters which are positions to pass to the constructor, this method is important because this will be used as a reference to the ListView in the wireframe. The purpose of convertView is to reuse the old view, often used to check for the correct data.
-**Answer:** [Enter your answer here in a paragraph or two].
+
+**Answer:** I would describe an ArrayAdapter as an array passes 3 different parameters which are positions to pass to the constructor, this method is important because this will be used as a reference to the ListView in the wireframe. The purpose of convertView is to reuse the old view, often used to check for the correct data.
 
 ## Notes
 
